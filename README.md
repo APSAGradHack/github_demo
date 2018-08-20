@@ -73,7 +73,7 @@ Since many people will be working on this site at once, you want to create a new
 [create_branch]: https://github.com/APSAGradHack/github_demo/blob/master/pics/create_branch.png "Create branch screenshot"
 [change_log]: https://github.com/APSAGradHack/github_demo/blob/master/pics/change_log.png "Change log on GitHub Desktop" 
 [commit_message]: https://github.com/APSAGradHack/github_demo/blob/master/pics/commit_message.png "Commit message on GitHub Desktop" 
-[pull_req_1]: https://github.com/APSAGradHack/github_demo/blob/master/pics/pics/pull_req_1.png "Pull request button" 
+[pull_req_1]: https://github.com/APSAGradHack/github_demo/blob/master/pics/pull_req_1.png "Pull request button" 
 [pull_req_2]: https://github.com/APSAGradHack/github_demo/blob/master/pics/pull_req_2.png "Pull request form" 
 [pull_req_3]: https://github.com/APSAGradHack/github_demo/blob/master/pics/pull_req_3.png "Pull request form 2" 
 [delete_branch]: https://github.com/APSAGradHack/github_demo/blob/master/pics/pull_req_1.png "Delete branch" 

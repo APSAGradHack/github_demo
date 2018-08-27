@@ -99,8 +99,15 @@ Which shows up in markdown and on the GitHub site as:
 A helpful GitHub Markdown cheat sheet is [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 ---
 
+# Our website
+After this demo one of the hackathon teams will be working on this website:
+* [The website can be viewed here](https://apsagradhack.github.io/)
+* [And the sourcecode is here](https://github.com/APSAGradHack/APSAGradHack.github.io)
+
+To edit the website, follow the directions for GitHub above to clone the repository, make and push changes, and submit pull requests. 
 
 # More Resources
+* [GitHub Markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 
 [clone_repo]: https://github.com/APSAGradHack/github_demo/blob/master/pics/clone_repo.png "Clone repo screenshot"

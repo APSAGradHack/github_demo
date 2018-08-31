@@ -7,7 +7,7 @@
 4. More Resources
 
 # Useful links
-## [This demo page](https://github.com/APSAGradHack/github_demo)
+## This demo page: [https://github.com/APSAGradHack/github_demo](https://github.com/APSAGradHack/github_demo)
 * If you are on the Hackathon team making the GitHub site, [sign up here](https://goo.gl/forms/pVIR1Mb6rMYdllOg2)
 * [GitHub Markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 

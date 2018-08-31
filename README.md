@@ -115,7 +115,7 @@ To edit the website, follow the directions for GitHub above to clone the reposit
 
 
 ![alt text][git_comic]
-# _From [xkcd](https://xkcd.com/1597/)_
+_From [xkcd](https://xkcd.com/1597/)_
 
 
 [clone_repo]: https://github.com/APSAGradHack/github_demo/blob/master/pics/clone_repo.png "Clone repo screenshot"

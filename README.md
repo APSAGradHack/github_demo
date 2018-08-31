@@ -6,6 +6,11 @@
 3. Making a GitHub Site
 4. More Resources
 
+# Useful links
+## [This demo page](https://github.com/APSAGradHack/github_demo)
+* If you are on the Hackathon team making the GitHub site, [sign up here](https://goo.gl/forms/pVIR1Mb6rMYdllOg2)
+* [GitHub Markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
 # What is GitHub?
 Git (minus the "hub") is a "version control system" - software designed to let people collaborate on the same body of code and keep track of how each file in the project was edited over time. GitHub is a website that displays these projects (called "Repositories") and their edit histories (called "Commits") and allows users to contribute to projects or adapt existing code for new projects.
 

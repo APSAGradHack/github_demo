@@ -20,6 +20,10 @@ Head to [GitHub's website](https://github.com/) and create an account.
 ### Download GitHub Desktop.
 Go to [desktop.github.com](https://desktop.github.com/) to download and install GitHub Desktop. This is what we will use to track and push our changes back up to GitHub's website. You can also do everything we're going to learn today using the command line, but we won't be covering that.
 
+## The basic workflow
+We will create a "branch" of the main project, make our changes, and then merge them into the master project. This lets us all work on the code simultaneously and avoid creating errors in the main website or overwriting each other by accident.
+![alt text][branching_chart]
+
 ## How to use GitHub
 ### Clone a repo
 First, clone the repository you'd like to work on:
@@ -110,6 +114,10 @@ To edit the website, follow the directions for GitHub above to clone the reposit
 * [GitHub Markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 
+![alt text][git_comic]
+# _From [xkcd](https://xkcd.com/1597/)_
+
+
 [clone_repo]: https://github.com/APSAGradHack/github_demo/blob/master/pics/clone_repo.png "Clone repo screenshot"
 [create_branch]: https://github.com/APSAGradHack/github_demo/blob/master/pics/create_branch.png "Create branch screenshot"
 [change_log]: https://github.com/APSAGradHack/github_demo/blob/master/pics/change_log.png "Change log on GitHub Desktop" 
@@ -118,4 +126,6 @@ To edit the website, follow the directions for GitHub above to clone the reposit
 [pull_req_2]: https://github.com/APSAGradHack/github_demo/blob/master/pics/pull_req_2.png "Pull request form" 
 [pull_req_3]: https://github.com/APSAGradHack/github_demo/blob/master/pics/pull_req_3.png "Pull request form 2" 
 [delete_branch]: https://github.com/APSAGradHack/github_demo/blob/master/pics/pull_req_1.png "Delete branch" 
+[git_comic]: https://github.com/APSAGradHack/github_demo/blob/master/pics/git_xkcd.png "Git comic"
+[branching_chart]: https://github.com/APSAGradHack/github_demo/blob/master/pics/branching_chart.png "Git comic"
 

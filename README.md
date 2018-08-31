@@ -110,9 +110,10 @@ After this demo one of the hackathon teams will be working on this website:
 
 To edit the website, follow the directions for GitHub above to clone the repository, make and push changes, and submit pull requests. 
 
-# More Resources
+# Helpful Links
+* [Signup form for the team making the GitHub site](https://goo.gl/forms/pVIR1Mb6rMYdllOg2)
 * [GitHub Markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-
+* [APSAGradHack GitHub org](https://github.com/APSAGradHack/)
 
 ![alt text][git_comic]
 _From [xkcd](https://xkcd.com/1597/)_
